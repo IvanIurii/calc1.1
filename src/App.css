@@ -49,10 +49,11 @@ button {
 
 .dubl-button {
     width: 8.3em;
+    color: #959595;
 }
 
 .button-red {
-    color: white;
+    color: #ffffff;
     background-color: Crimson;
 
 }
