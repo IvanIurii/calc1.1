@@ -28,11 +28,6 @@ class ButtonComponent extends Component {
                 <button className="button-red" name="=" onClick={e => this.props.onClick(e.target.name)}>=</button>
 
                 <br/>
-                {/*<button name="." onClick={e => this.props.onClick(e.target.name)}>.</button>*/}
-                {/*<button name="0" onClick={e => this.props.onClick(e.target.name)}>0</button>*/}
-                {/*<button className="hide_button"></button>*/}
-                {/*<button className="hide_button"></button>*/}
-                {/*<br/>*/}
             </div>
         );
     }
